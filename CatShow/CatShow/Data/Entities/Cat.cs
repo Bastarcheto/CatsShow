@@ -4,6 +4,7 @@ namespace CatShow.Data.Entities
 {
     public class Cat
     {
+        //Cat
         public int Id { get; set; }
 
         [Required]
